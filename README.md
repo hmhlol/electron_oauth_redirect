@@ -1,6 +1,6 @@
 # electron_oauth_redirect
 
-To create and run the electron app, run this commands in your terminal.
+To create and run the electron app, run this commands in your terminal. Change the redirect url in main.js.
 
 ```bash
 npm init -y
